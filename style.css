@@ -217,6 +217,7 @@ header {
     border: none;
     margin-top: 2em;
     cursor: pointer;
+     width: 100%;
 }
 
 .order-now:hover {
