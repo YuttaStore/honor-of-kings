@@ -31,7 +31,7 @@ Time: ${timestamp}
 *Product : ${productId}*
 *Mode of Payment* : ${paymentOption}
 ------------------------------------------------------
-*Total:${totalPrice}*
+*Total: ${totalPrice}*
             
 *Payment Method* 
            
